@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # jekyll-seo-tag 设置 › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: hjw-arch       # 主标题
+title: Hjw-Arch       # 主标题
 
 tagline: A Computer Architecture Student  # 副标题
 
